@@ -14,7 +14,7 @@ It contains four subfolders containing the following files:
     An R script that was used to illustrate our motivation example, which was used for analysis in the manuscript.
     
     MA model & Help Functions.R
-    An R script containing help functions and the meta-analysis models used in our simulation.
+    An R script containing help functions and the meta-analysis models that was used in the analysis.R file.
 
     Data.xlsx
     Data used for our example.
@@ -23,12 +23,14 @@ It contains four subfolders containing the following files:
       
     simulation.R
     An R script that performs the simulations reported in the manuscript. 
+    
     simulation performance metrics.R
+    An R script that extracts the performance metrics reported in the manuscript. 
     
     MA Models & Help Functions.R
-    An R script containing help functions and the meta-analysis models used in our simulation.
+    An R script containing help functions and the meta-analysis models that was used in the simulation.R file.
 
     ./simulation_results/
-    A folder containing the results of simulation.R for each simulation scenario
+    A folder containing the results of simulation.R for each simulated scenario
     
     
