@@ -6,7 +6,7 @@ Code was written by Georgios Seitidis.
 In case of questions or comments please contact g.seitidis@uoi.gr
 
 This folder contains the following data and files that can be used to reproduce all analysis and figures of the manuscript.
-It contains four subfolders containing the following files:
+It contains two subfolders containing the following files:
 
 ./Example/:
 
