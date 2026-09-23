@@ -33,4 +33,10 @@ It contains two subfolders containing the following files:
     ./simulation_results/
     A folder containing the results of simulation.R for each simulated scenario
     
-    
+## Citation
+
+If you use this code or these data in your research, please cite the repository and the associated manuscript or published article, as available. Full publication details will be added here when available.
+
+## License
+
+See [LICENSE.md](LICENSE.md) for the licensing terms applicable to the code and data.
